@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "889341e7b76212b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a029a5cb30b6dcb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "高数/未命名(1).md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27ece8920c1beeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5345d9292102f1fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0c0bf7a0db172f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "237fe14744254112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85200bcce4f386ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5fd973b56b985c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2deec088e427f649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40fa81acf8e098b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c55304360e25fe0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高数/重点复习点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b07ac6444f89f49e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "高数/重点复习点.md"
+              }
+            }
+          },
+          {
+            "id": "15df4994c4929f68",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9c3ae5483af1ac0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9a029a5cb30b6dcb",
+  "lastOpenFiles": [
+    "高数/重点复习点.md",
+    "高数/极限.md",
+    "高数/www.baidu.com.md",
+    "高数/url=www.baidu.com.md",
+    "高数/().md",
+    "2022-07-01.md"
+  ]
+}
