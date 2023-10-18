@@ -1,8 +1,8 @@
 #include <cmath>
 #include <iostream>
 #include <sstream>
-#include <stdlib.h>
-#include <stdio.h>
+
+
 
 template <class K, class E>
 struct skipNode {
@@ -136,5 +136,5 @@ void skipList<K,E>::erase(const K &theKey){
     delete theNode;
     --dSize;
   }
-
+ 
 }
